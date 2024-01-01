@@ -16,7 +16,7 @@
             "box_align": "middle-right",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 20,
+            "image_overlay_opacity": 0,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -24,13 +24,14 @@
         "template--21915648753968__45478ad2-2c3c-445a-b748-00c731dde3c1-slide-2": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/quarta-slide.png",
+            "heading": "Esprimi il tuo <strong>Amore<\/strong>",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
+            "subheading": "Scopri i nostri ciondoli a <strong>Cuore<\/strong> disponibili in tre varianti di colori. Aggiungi un tocco di eleganza al tuo look quotidiano!",
+            "button_label": "SCOPRI ORA",
+            "link": "shopify:\/\/products\/cuore-di-calypso-1",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
