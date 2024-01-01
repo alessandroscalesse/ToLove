@@ -592,3 +592,81 @@
   ]
 }
 {% endschema %}
+
+{% schema %}
+{
+  "name": "image",
+  "type": "image",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Image Slider"
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text",
+      "default": "<p>Lorem Ipsum</p>"
+    },
+    {
+      "type": "text",
+      "id": "btn_text",
+      "label": "Bottom Text",
+      "default": "Learn More"
+    },
+    {
+      "type": "url",
+      "id": "btn_url",
+      "label": "Button URL"
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    }
+  ]
+},
+{
+  "name": "video",
+  "type": "video",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Video Slider"
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text",
+      "default": "<p>Lorem Ipsum</p>"
+    },
+    {
+      "type": "text",
+      "id": "btn_text",
+      "label": "Bottom Text",
+      "default": "Learn More"
+    },
+    {
+      "type": "url",
+      "id": "btn_url",
+      "label": "Button URL"
+    },
+    {
+      "type": "text",
+      "id": "video_url_mp4",
+      "label": "Video URL",
+      "placeholder": "Use a MP4 Video URL",
+      "info": "Use a MP4 Video URL" 
+    }
+  ],
+  "presets": [
+    {
+      "name": "Slideshow"
+    }
+  ]
+}
+{% endschema %}
