@@ -62,6 +62,9 @@
         "template--21915648753968__45478ad2-2c3c-445a-b748-00c731dde3c1-slide-2",
         "fe6a76f6-6193-4df0-958e-cd578333fb93"
       ],
+      "custom_css": [
+        "[aria-label=\"2 su 3\"] {left: auto; right: 0;}"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
