@@ -13,7 +13,7 @@ slideshow-component {
 slideshow-component .slideshow.banner {
   flex-direction: row;
   flex-wrap: nowrap;
-  margin: auto;
+  margin: 0;
   gap: 0;
 }
 
