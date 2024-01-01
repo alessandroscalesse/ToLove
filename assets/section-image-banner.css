@@ -88,7 +88,7 @@
   }
 
   .banner--medium:not(.banner--adapt) {
-    min-height: 58rem;
+    min-height: 60rem;
     max-width: 1200px;
   }
 
