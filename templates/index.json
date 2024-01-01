@@ -62,7 +62,7 @@
         "fe6a76f6-6193-4df0-958e-cd578333fb93"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": false,
