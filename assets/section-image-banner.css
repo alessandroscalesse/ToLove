@@ -88,7 +88,10 @@
   }
 
   .banner--medium:not(.banner--adapt) {
-    min-height: 83rem;
+    min-height: 58rem;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .banner--large:not(.banner--adapt) {
