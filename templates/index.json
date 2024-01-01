@@ -42,12 +42,13 @@
         "fe6a76f6-6193-4df0-958e-cd578333fb93": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/seconda-slide.jpg",
+            "heading": "Incidi <strong>Gratuitamente<\/strong> il tuo ciondolo",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
+            "subheading": "e scopri <strong>Aura Circle<\/strong>  in 4 varianti diversi",
+            "button_label": "INCIDI ORA",
+            "link": "shopify:\/\/products\/aura-circle-1",
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
