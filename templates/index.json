@@ -63,7 +63,7 @@
         "fe6a76f6-6193-4df0-958e-cd578333fb93"
       ],
       "custom_css": [
-        ".slideshow__slide [aria-label=\"2 su 3\"] .slideshow__media {left: auto; right: 0;}"
+        ".slideshow__slide [aria-label=\"2 su 3\"] .banner__media {left: auto; right: 0;}"
       ],
       "settings": {
         "layout": "full_bleed",
