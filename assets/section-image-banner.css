@@ -88,7 +88,8 @@
   }
 
   .banner--medium:not(.banner--adapt) {
-    min-height: 56rem;
+    min-height: 58rem;
+    max-width: 1200px;
   }
 
   .banner--large:not(.banner--adapt) {
@@ -161,7 +162,7 @@
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
+  width: 50%;
 }
 
 .banner__media-half {
