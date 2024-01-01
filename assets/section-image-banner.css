@@ -88,7 +88,7 @@
   }
 
   .banner--medium:not(.banner--adapt) {
-    min-height: 56rem;
+    min-height: 83rem;
   }
 
   .banner--large:not(.banner--adapt) {
@@ -337,7 +337,7 @@
 }
 
 .banner__box {
-  padding: 4rem 3.5rem;
+  padding: 2.5rem 3rem;
   position: relative;
   height: fit-content;
   align-items: center;
