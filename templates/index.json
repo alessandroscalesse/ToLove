@@ -80,11 +80,11 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "I Nostri Pendenti",
         "heading_size": "h2",
         "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
+        "show_description": true,
+        "description_style": "body",
         "collection": "frontpage",
         "products_to_show": 8,
         "columns_desktop": 4,
@@ -98,7 +98,7 @@
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": true,
-        "enable_quick_add": true,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 28,
