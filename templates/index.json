@@ -209,9 +209,10 @@
         "layout": "row",
         "color_scheme": "accent-2",
         "container_color_scheme": "background-1",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
+        "image": "shopify:\/\/shop_images\/prima-slide_69974f05-f872-4e23-932e-d2806c8bb527.jpg",
         "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
       }
