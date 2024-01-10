@@ -40,7 +40,7 @@
     "card_color_scheme": "background-2",
     "card_border_thickness": 0,
     "card_border_opacity": 10,
-    "card_corner_radius": 0,
+    "card_corner_radius": 4,
     "card_shadow_opacity": 0,
     "card_shadow_horizontal_offset": 0,
     "card_shadow_vertical_offset": 4,
@@ -194,9 +194,9 @@
       },
       "scheme-d54bdf3c-909f-40d9-90d5-72025a15c191": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#fff6f3",
           "background_gradient": "",
-          "text": "#242833",
+          "text": "#d09170",
           "button": "#d09170",
           "button_label": "#242833",
           "secondary_button_label": "#d09170",
