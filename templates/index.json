@@ -140,7 +140,7 @@
           "settings": {
             "heading": "Qual è il materiale del ciondolo?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>I nostri ciondoli sono di alta qualità, disponibili in <strong>Oro<\/strong>, <strong>Nero<\/strong>, <strong>Argento <\/strong>e <strong>Oro Rosa<\/strong>. Tutti i materiali utilizzati sono in acciaio inox.<\/p>",
             "page": ""
           }
         },
