@@ -112,7 +112,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Che cosa posso incidere sul mio ciondolo?",
-            "icon": "check_mark",
+            "icon": "interrogativo",
             "row_content": "<p>Puoi personalizzare il tuo ciondolo con una <strong>frase<\/strong>, una <strong>lettera<\/strong>, una <strong>parola <\/strong>oppure puoi incidere un'<strong>immagine<\/strong>.<\/p><p>Tuttavia, c'è un limite di caratteri a causa delle dimensioni del ciondolo. Assicurati di controllare le specifiche prima di procedere con l'ordine.<\/p>",
             "page": ""
           }
@@ -139,8 +139,17 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Qual è il materiale del ciondolo?",
-            "icon": "chat_bubble",
+            "icon": "calypso",
             "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_KYL7jw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Spedite anche in altri paesi?",
+            "icon": "map_pin",
+            "row_content": "<p>Sì, offriamo spedizioni sia <strong>Nazionali <\/strong>che I<strong>nternazionali<\/strong>. Le tariffe e i tempi di consegna variano in base alla destinazione.<\/p>",
             "page": ""
           }
         }
@@ -149,7 +158,8 @@
         "template--21915648753968__923e05f5-6ee5-451f-9d0d-e7cdf402dd6d-collapsible_row-1",
         "template--21915648753968__923e05f5-6ee5-451f-9d0d-e7cdf402dd6d-collapsible_row-2",
         "template--21915648753968__923e05f5-6ee5-451f-9d0d-e7cdf402dd6d-collapsible_row-3",
-        "template--21915648753968__923e05f5-6ee5-451f-9d0d-e7cdf402dd6d-collapsible_row-4"
+        "template--21915648753968__923e05f5-6ee5-451f-9d0d-e7cdf402dd6d-collapsible_row-4",
+        "collapsible_row_KYL7jw"
       ],
       "settings": {
         "caption": "",
