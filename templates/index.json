@@ -112,7 +112,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Che cosa posso incidere sul mio ciondolo?",
-            "icon": "interrogativo",
+            "icon": "none",
             "row_content": "<p>Puoi personalizzare il tuo ciondolo con una <strong>frase<\/strong>, una <strong>lettera<\/strong>, una <strong>parola <\/strong>oppure puoi incidere un'<strong>immagine<\/strong>.<\/p><p>Tuttavia, c'è un limite di caratteri a causa delle dimensioni del ciondolo. Assicurati di controllare le specifiche prima di procedere con l'ordine.<\/p>",
             "page": ""
           }
@@ -121,7 +121,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Quale font posso utilizzare durante la Personalizzazione?",
-            "icon": "chat_bubble",
+            "icon": "none",
             "row_content": "<p>Nella personalizzazione del tuo ciondolo puoi scegliere il <strong>font<\/strong> che  preferisci tra quelli elencati.<\/p>",
             "page": ""
           }
@@ -130,7 +130,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Quali sono i Tempi di Spedizione?",
-            "icon": "box",
+            "icon": "none",
             "row_content": "<p>ToLove punta sempre al massimo, dopo aver effettuato l'ordine, il pacco verrà consegnato <strong>entro 2 giorni lavorativi<\/strong>.<\/p>",
             "page": ""
           }
@@ -139,7 +139,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Qual è il materiale del ciondolo?",
-            "icon": "calypso",
+            "icon": "none",
             "row_content": "",
             "page": ""
           }
@@ -148,8 +148,35 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Spedite anche in altri paesi?",
-            "icon": "map_pin",
+            "icon": "none",
             "row_content": "<p>Sì, offriamo spedizioni sia <strong>Nazionali <\/strong>che I<strong>nternazionali<\/strong>. Le tariffe e i tempi di consegna variano in base alla destinazione.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_hga7RB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa dovrei fare se il mio ciondolo arriva danneggiato?",
+            "icon": "none",
+            "row_content": "<p><strong>La soddisfazione del cliente è la nostra priorità<\/strong>. Se ricevi un prodotto danneggiato, contattaci e faremo del nostro meglio per risolvere il problema.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_G8PaKY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come posso prendere cura del mio ciondolo?",
+            "icon": "none",
+            "row_content": "<p>Per mantenere il tuo ciondolo in ottime condizioni, ti consigliamo di evitare il contatto con prodotti chimici, come profumi o detergenti, e di pulirlo regolarmente con un <strong>panno morbido<\/strong>.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Pi88fM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa succede se commetto un errore nella personalizzazione?",
+            "icon": "none",
+            "row_content": "<p>Se noti un errore nel tuo ordine, <strong>contattaci il prima possibile <\/strong>sia tramite <strong>e-mail<\/strong> che numero di <strong>telefono<\/strong>, faremo del nostro meglio per accontentarti, ma una volta iniziato il processo di incisione, non possiamo garantire modifiche.<\/p>",
             "page": ""
           }
         }
@@ -159,7 +186,10 @@
         "template--21915648753968__923e05f5-6ee5-451f-9d0d-e7cdf402dd6d-collapsible_row-2",
         "template--21915648753968__923e05f5-6ee5-451f-9d0d-e7cdf402dd6d-collapsible_row-3",
         "template--21915648753968__923e05f5-6ee5-451f-9d0d-e7cdf402dd6d-collapsible_row-4",
-        "collapsible_row_KYL7jw"
+        "collapsible_row_KYL7jw",
+        "collapsible_row_hga7RB",
+        "collapsible_row_G8PaKY",
+        "collapsible_row_Pi88fM"
       ],
       "settings": {
         "caption": "",
