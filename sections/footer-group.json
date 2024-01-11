@@ -4,10 +4,30 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "link_list_XX6HEm": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "link_list_dpT4hz": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_XX6HEm",
+        "link_list_dpT4hz"
+      ],
       "settings": {
         "color_scheme": "inverse",
         "newsletter_enable": false,
-        "newsletter_heading": "Iscriviti alla nosstra <strong>Newsletter<\/strong>",
+        "newsletter_heading": "Iscriviti alla nostra <strong>Newsletter<\/strong>",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": true,
