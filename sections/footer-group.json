@@ -33,13 +33,21 @@
             "heading": "<strong>Clienti<\/strong>",
             "menu": "footer-3-colonna"
           }
+        },
+        "link_list_pq8zmE": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Clienti",
+            "menu": "footer-4-colonna"
+          }
         }
       },
       "block_order": [
         "link_list_XX6HEm",
         "link_list_dpT4hz",
         "image_eRMGNm",
-        "link_list_34QjqU"
+        "link_list_34QjqU",
+        "link_list_pq8zmE"
       ],
       "settings": {
         "color_scheme": "inverse",
