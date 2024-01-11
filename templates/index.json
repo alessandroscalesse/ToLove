@@ -103,7 +103,7 @@
         "column_hFrCMp": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/stella.svg",
+            "image": "shopify:\/\/shop_images\/laser_1.png",
             "title": "Column",
             "text": "<p>Pagamenti Sicuri ed Affidabili<\/p>",
             "link_label": "",
@@ -283,12 +283,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_gLEcEj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ydzyJ7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stella.svg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Q6PtW7": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EjTAXF": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XEDMPQ": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ydzyJ7",
+        "column_Q6PtW7",
+        "column_EjTAXF",
+        "column_XEDMPQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d54bdf3c-909f-40d9-90d5-72025a15c191",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "45478ad2-2c3c-445a-b748-00c731dde3c1",
     "multicolumn_irH6AX",
     "featured_collection",
-    "923e05f5-6ee5-451f-9d0d-e7cdf402dd6d"
+    "923e05f5-6ee5-451f-9d0d-e7cdf402dd6d",
+    "multicolumn_gLEcEj"
   ]
 }
