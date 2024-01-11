@@ -19,6 +19,14 @@
             "menu": "footer-2-colonna"
           }
         },
+        "image_eRMGNm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tolove-logo.svg",
+            "image_width": 250,
+            "alignment": "center"
+          }
+        },
         "link_list_34QjqU": {
           "type": "link_list",
           "settings": {
@@ -30,6 +38,7 @@
       "block_order": [
         "link_list_XX6HEm",
         "link_list_dpT4hz",
+        "image_eRMGNm",
         "link_list_34QjqU"
       ],
       "settings": {
