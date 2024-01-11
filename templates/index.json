@@ -70,11 +70,78 @@
         "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "dots",
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Presentazione delle nostre slides"
+      }
+    },
+    "multicolumn_irH6AX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bBeWT8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cuore.svg",
+            "title": "Dedizione e Passione",
+            "text": "<p>Prova i nostri Ciondoli scelti apposta per <strong>Voi<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XXLPgB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector.svg",
+            "title": "Momenti Indimenticabili",
+            "text": "<p>Regala <strong>ToLove <\/strong>ad una persona Speciale<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hFrCMp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/laser_7d040f92-ab88-4b6d-96b8-a3dd5a25b17d.svg",
+            "title": "Incisione Personalizzata",
+            "text": "<p>Puoi incidere Testo o Immagini<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WVWGYN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sorriso.svg",
+            "title": "Assistenza al <strong>TOP<\/strong>",
+            "text": "<p>Supporto Veloce ed Affidabile<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bBeWT8",
+        "column_XXLPgB",
+        "column_hFrCMp",
+        "column_WVWGYN"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d54bdf3c-909f-40d9-90d5-72025a15c191",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 12
       }
     },
     "featured_collection": {
@@ -216,11 +283,80 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_gLEcEj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ydzyJ7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pagamenti-sicuri_d6309b89-8626-498b-a191-2ab8f69ca13d.svg",
+            "title": "Pagementi <strong>Sicuri<\/strong>",
+            "text": "<p>Paga con <strong>Paypal <\/strong>per sentirti al Sicuro!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Q6PtW7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/premium.svg",
+            "title": "Qualità <strong>Premium<\/strong>",
+            "text": "<p>Prova i migliori Ciondoli in circolazione<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EjTAXF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sconti.svg",
+            "title": "Sconti da Urlo",
+            "text": "<p>Prova i nostri Prodotti con sconti fino al <strong>60%<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XEDMPQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stella.svg",
+            "title": "Recensione Rapida",
+            "text": "<p>Indossa <strong>ToLove <\/strong>e invia una Recensione<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ydzyJ7",
+        "column_Q6PtW7",
+        "column_EjTAXF",
+        "column_XEDMPQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-e9956c5b-cd3f-4410-96a3-7ad03ec24479",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "45478ad2-2c3c-445a-b748-00c731dde3c1",
+    "multicolumn_irH6AX",
     "featured_collection",
-    "923e05f5-6ee5-451f-9d0d-e7cdf402dd6d"
+    "923e05f5-6ee5-451f-9d0d-e7cdf402dd6d",
+    "multicolumn_gLEcEj"
   ]
 }

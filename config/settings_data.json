@@ -136,6 +136,21 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#242833",
+          "secondary_color": "#FFFFFF",
+          "button_icon": "hand_wave",
+          "button_text": "help",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
@@ -195,6 +210,17 @@
       "scheme-d54bdf3c-909f-40d9-90d5-72025a15c191": {
         "settings": {
           "background": "#fff6f3",
+          "background_gradient": "",
+          "text": "#d09170",
+          "button": "#d09170",
+          "button_label": "#242833",
+          "secondary_button_label": "#d09170",
+          "shadow": "#d09170"
+        }
+      },
+      "scheme-e9956c5b-cd3f-4410-96a3-7ad03ec24479": {
+        "settings": {
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "#d09170",
           "button": "#d09170",
