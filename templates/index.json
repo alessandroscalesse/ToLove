@@ -84,8 +84,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cuore.svg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Dedizione e Passione",
+            "text": "<p>Prova la nostra gamma di Ciondoli scelti apposta per <strong>Voi<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -311,7 +311,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/sconti.svg",
-            "title": "Column",
+            "title": "Sconti da Urlo",
             "text": "<p>Prova i nostri Prodotti con sconti fino al <strong>60%<\/strong><\/p>",
             "link_label": "",
             "link": ""
