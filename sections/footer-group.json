@@ -5,7 +5,7 @@
     "footer": {
       "type": "footer",
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "newsletter_enable": false,
         "newsletter_heading": "Iscriviti alla nosstra <strong>Newsletter<\/strong>",
         "enable_follow_on_shop": true,
