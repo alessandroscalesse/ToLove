@@ -290,9 +290,9 @@
         "column_ydzyJ7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/stella.svg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/pagamenti-sicuri_d6309b89-8626-498b-a191-2ab8f69ca13d.svg",
+            "title": "Pagementi <strong>Sicuri<\/strong>",
+            "text": "<p>Paga con <strong>Paypal <\/strong>per sentirti al Sicuro!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -320,6 +320,7 @@
         "column_XEDMPQ": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stella.svg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
