@@ -95,7 +95,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Vector.svg",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Regala un Ciondolo Personalizzato ad una persona cara<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -105,7 +105,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/stella.svg",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pagamenti Sicuri ed Affidabili<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -114,8 +114,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/sorriso.svg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Assistenza al <strong>TOP<\/strong>",
+            "text": "<p>Supporto Veloce ed Affidabile<\/p>",
             "link_label": "",
             "link": ""
           }
