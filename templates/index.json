@@ -94,8 +94,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Vector.svg",
-            "title": "Column",
-            "text": "<p>Regala un Ciondolo Personalizzato ad una persona cara<\/p>",
+            "title": "Re",
+            "text": "<p>Regala <strong>ToLove <\/strong>ad una persona Speciale<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -103,9 +103,9 @@
         "column_hFrCMp": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/laser_1.png",
-            "title": "Column",
-            "text": "<p>Pagamenti Sicuri ed Affidabili<\/p>",
+            "image": "shopify:\/\/shop_images\/laser_7d040f92-ab88-4b6d-96b8-a3dd5a25b17d.svg",
+            "title": "Incisione Personalizzata",
+            "text": "<p>Puoi incidere Testo o Immagini<\/p>",
             "link_label": "",
             "link": ""
           }
