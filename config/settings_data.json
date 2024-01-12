@@ -119,6 +119,17 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "cart_color_scheme": "background-1",
+    "checkout_logo_image": "shopify:\/\/shop_images\/tolove-logo.svg",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fffcfa",
+    "checkout_heading_font": "Source Sans Pro",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#d09170",
+    "checkout_button_color": "#d09170",
+    "checkout_layout": "onepage",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
