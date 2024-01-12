@@ -12,25 +12,25 @@
             "link": ""
           }
         },
-        "announcement_7qCHMw": {
-          "type": "announcement",
-          "settings": {
-            "text": "Scopri i nostri Ciondoli",
-            "link": ""
-          }
-        },
         "announcement_WgMYpz": {
           "type": "announcement",
           "settings": {
             "text": "Paga in Contrassegno",
             "link": ""
           }
+        },
+        "announcement_7qCHMw": {
+          "type": "announcement",
+          "settings": {
+            "text": "Scopri i nostri Ciondoli",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement_jfAdyi",
-        "announcement_7qCHMw",
-        "announcement_WgMYpz"
+        "announcement_WgMYpz",
+        "announcement_7qCHMw"
       ],
       "settings": {
         "color_scheme": "accent-2",
