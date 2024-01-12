@@ -33,6 +33,9 @@
         "image_eRMGNm",
         "link_list_dpT4hz"
       ],
+      "custom_css": [
+        ".footer-block {text-align: center;}"
+      ],
       "settings": {
         "color_scheme": "inverse",
         "newsletter_enable": false,
