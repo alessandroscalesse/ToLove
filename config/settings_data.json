@@ -119,6 +119,9 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "cart_color_scheme": "background-1",
+    "checkout_logo_image": "shopify:\/\/shop_images\/tolove-logo.svg",
+    "checkout_logo_size": "small",
+    "checkout_body_background_color": "#d09170",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
