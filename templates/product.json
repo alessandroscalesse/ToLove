@@ -6,7 +6,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "<strong>{{ product.vendor }}<\/strong>",
             "text_style": "uppercase"
           }
         },
@@ -46,7 +46,7 @@
         "share": {
           "type": "share",
           "settings": {
-            "share_label": "Share"
+            "share_label": "Condividi questo ciondolo"
           }
         }
       },
