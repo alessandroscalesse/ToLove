@@ -341,12 +341,6 @@
   }
 }
 
-@media screen and (max-width: 749px) {
-  .banner__box {
-    padding: 2.5rem 3rem;
-  }
-}
-
 .banner__box {
   padding: 2.5rem 3rem;
   position: relative;
@@ -356,6 +350,13 @@
   width: 100%;
   word-wrap: break-word;
   z-index: 1;
+}
+
+
+@media screen and (max-width: 749px) {
+  .banner__box {
+    padding: 0;
+  }
 }
 
 @media screen and (min-width: 750px) {
