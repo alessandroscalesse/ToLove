@@ -138,8 +138,8 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-d54bdf3c-909f-40d9-90d5-72025a15c191",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 24,
         "padding_bottom": 12
       }
