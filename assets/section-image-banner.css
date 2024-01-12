@@ -355,8 +355,7 @@
 
 @media screen and (max-width: 749px) {
   .banner__box {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0;
     margin-top: 2.5rem;
   }
 }
