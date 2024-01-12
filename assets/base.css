@@ -2276,6 +2276,7 @@ product-info .loading__spinner:not(.hidden)~*,
   letter-spacing: 0.1rem;
   min-height: 3.8rem;
   font-size: 1.7rem;
+  font-weight: 600;
 }
 
 .announcement-bar-slider--fade-in-next .announcement-bar__message,
