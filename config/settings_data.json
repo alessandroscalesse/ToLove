@@ -120,7 +120,7 @@
     "cart_drawer_collection": "",
     "cart_color_scheme": "background-1",
     "checkout_logo_image": "shopify:\/\/shop_images\/tolove-logo.svg",
-    "checkout_logo_position": "center",
+    "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "white",
