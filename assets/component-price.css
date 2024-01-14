@@ -81,8 +81,8 @@
 
 .price--on-sale .price__sale {
   display: initial;
-  flex-direction: row;
-  align-items: center;
+  flex-direction: column;
+  align-items: start;
   display: flex;
 }
 
