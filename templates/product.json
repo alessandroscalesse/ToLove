@@ -27,6 +27,12 @@
             "text_style": "body"
           }
         },
+        "custom_liquid_4gAQQc": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div><\/div>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -67,12 +73,6 @@
             "icon_3": "truck",
             "heading_3": "Heading"
           }
-        },
-        "custom_liquid_4gAQQc": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div><\/div>"
-          }
         }
       },
       "block_order": [
@@ -80,13 +80,13 @@
         "title",
         "price",
         "text_XDKpVW",
+        "custom_liquid_4gAQQc",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
         "share",
-        "icon_with_text_LyD9xJ",
-        "custom_liquid_4gAQQc"
+        "icon_with_text_LyD9xJ"
       ],
       "settings": {
         "enable_sticky_info": true,
