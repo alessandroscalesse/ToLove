@@ -73,6 +73,9 @@
         "description",
         "share"
       ],
+      "custom_css": [
+        ".AirReviews-StarRate--Count {display: none;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "background-1",
