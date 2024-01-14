@@ -54,6 +54,11 @@
           "settings": {
             "share_label": "Condividi questo ciondolo"
           }
+        },
+        "air_product_reviews_app_summary_block_iaatwG": {
+          "type": "shopify:\/\/apps\/air-product-reviews\/blocks\/app-summary-block\/c4e1e9ca-4d46-4e76-bc39-7e42417cb327",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -65,7 +70,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "air_product_reviews_app_summary_block_iaatwG"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -109,9 +115,9 @@
           "settings": {
             "air_blockreviews_summaryHeading": "Review",
             "air_blockreviews_layout": "list",
-            "air_blockreviews_singleStarColor": "#16A086",
+            "air_blockreviews_singleStarColor": "#16a086",
             "air_blockreviews_primaryColor": "#121212",
-            "air_blockreviews_buttonBackgroundColor": "#EDEDED",
+            "air_blockreviews_buttonBackgroundColor": "#ededed",
             "air_blockreviews_buttonTextColor": "#121212"
           }
         }
