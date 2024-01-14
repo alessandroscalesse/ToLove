@@ -15,6 +15,11 @@
           "settings": {
           }
         },
+        "air_product_reviews_app_summary_block_iaatwG": {
+          "type": "shopify:\/\/apps\/air-product-reviews\/blocks\/app-summary-block\/c4e1e9ca-4d46-4e76-bc39-7e42417cb327",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -54,24 +59,19 @@
           "settings": {
             "share_label": "Condividi questo ciondolo"
           }
-        },
-        "air_product_reviews_app_summary_block_iaatwG": {
-          "type": "shopify:\/\/apps\/air-product-reviews\/blocks\/app-summary-block\/c4e1e9ca-4d46-4e76-bc39-7e42417cb327",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "vendor",
         "title",
+        "air_product_reviews_app_summary_block_iaatwG",
         "price",
         "custom_liquid_4gAQQc",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
-        "air_product_reviews_app_summary_block_iaatwG"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
