@@ -166,6 +166,18 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "2965712708760319418": {
+        "type": "shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "13375938897875554821": {
+        "type": "shopify:\/\/apps\/qikify-sales-pop-up\/blocks\/app-embed\/688dd516-1cdc-4008-8329-23089a1c4e24",
+        "disabled": true,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
