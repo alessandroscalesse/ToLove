@@ -350,6 +350,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "custom_liquid_hcFqBd": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"AirReviews-Widget AirReviews-Widget--Carousel\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -357,6 +366,7 @@
     "multicolumn_irH6AX",
     "featured_collection",
     "923e05f5-6ee5-451f-9d0d-e7cdf402dd6d",
-    "multicolumn_gLEcEj"
+    "multicolumn_gLEcEj",
+    "custom_liquid_hcFqBd"
   ]
 }
