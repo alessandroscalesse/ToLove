@@ -30,7 +30,7 @@
 }
 
 .rating-star::before {
-  content: url('data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzIiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj4KICAgIDxwYXRoIGZpbGw9IiNkMDkxNzAiIGQ9Ik0yNTkuMyAxNy44TDE5NCAxNTAuMkw0Ny45IDE3MS41Yy0yNi4yIDMuOC0zNi43IDM2LjEtMTcuNyA1NC42bDEwNS43IDEwM2wtMjUgMTQ1LjVjLTQuNSAyNi4zIDIzLjIgNDYgNDYuNCAzMy43TDI4OCA0MzkuNmwxMzAuNyA2OC43YzIzLjIgMTIuMiA1MC45LTcuNCA0Ni40LTMzLjdsLTI1LTE0NS41bDEwNS43LTEwM2MxOS0xOC41IDguNS01MC44LTE3LjctNTQuNkwzODIgMTUwLjJMMzE2LjcgMTcuOGMtMTEuNy0yMy42LTQ1LjYtMjMuOS01Ny40IDAiLz4KPC9zdmc+Cg==');
+  content: '★★★★★';
   background: linear-gradient(
     90deg,
     var(--color-rating-star) var(--percent),
