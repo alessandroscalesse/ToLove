@@ -30,7 +30,7 @@
         "custom_liquid_4gAQQc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div><\/div>"
+            "custom_liquid": "{% comment %}\n  Esempio di codice Liquid che incorpora HTML statico.\n{% endcomment %}\n\n<div style=\"display: flex; flex-direction: column; align-items: start;\">\n    <span><b>1. <\/b>Scrivi il testo che preferisci<\/span>\n    <span><b>2. <\/b>Guarda l'anteprima<\/span>\n    <span><b>3. <\/b>Aggiungi al Carrello<\/span>\n    <span><b>4. <\/b>Vai al Check-out<\/span>\n<\/div>"
           }
         },
         "variant_picker": {
