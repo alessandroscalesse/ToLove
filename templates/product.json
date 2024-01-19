@@ -27,6 +27,7 @@
         },
         "custom_liquid_4gAQQc": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% comment %}\n{% endcomment %}\n<b>Come Personalizzo il mio Ciondolo?<\/b>\n<div style=\"margin-top: 0; display: flex; flex-direction: column; align-items: start; line-height: 2rem;\">\n    <span><b style=\"color: #d09170;\">1. <\/b>Scrivi il testo che preferisci<\/span>\n    <span><b style=\"color: #d09170;\">2. <\/b>Guarda l'anteprima<\/span>\n    <span><b style=\"color: #d09170;\">3. <\/b>Aggiungi al Carrello<\/span>\n    <span><b style=\"color: #d09170;\">4. <\/b>Vai al Check-out<\/span>\n<\/div>"
           }
