@@ -152,7 +152,7 @@
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "collection": "frontpage",
+        "collection": "home-p",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
