@@ -154,13 +154,6 @@
         "settings": {
         }
       },
-      "14710238943034738919": {
-        "type": "shopify:\/\/apps\/air-product-reviews\/blocks\/app-embed\/c4e1e9ca-4d46-4e76-bc39-7e42417cb327",
-        "disabled": false,
-        "settings": {
-          "air_reviews_json_ld": "{\n    \"@context\": \"http:\/\/schema.org\",\n    \"@type\": \"Product\",\n    \"name\": {{ product.title | json }},\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": {{  product.metafields.reviews.rating.value.rating |  json }},\n      \"reviewCount\": {{ product.metafields.reviews.rating_count |  json }}\n    }\n}"
-        }
-      },
       "8698817763995941236": {
         "type": "shopify:\/\/apps\/fordeer-sales-popup\/blocks\/popup\/10ad4a26-87fb-43fd-8aa9-dd53e003ed28",
         "disabled": false,
@@ -170,6 +163,12 @@
       "2965712708760319418": {
         "type": "shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a",
         "disabled": true,
+        "settings": {
+        }
+      },
+      "6406956604159796213": {
+        "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
         "settings": {
         }
       }
