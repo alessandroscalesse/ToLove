@@ -42,6 +42,7 @@
 
 .blog__button {
   margin-top: 3rem;
+  color: white !important;
 }
 
 @media screen and (min-width: 750px) {
