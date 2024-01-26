@@ -11,7 +11,7 @@
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
-    "animations_reveal_on_scroll": true,
+    "animations_reveal_on_scroll": false,
     "animations_hover_elements": "3d-lift",
     "buttons_border_thickness": 2,
     "buttons_border_opacity": 100,
@@ -59,7 +59,7 @@
     "blog_card_style": "standard",
     "blog_card_image_padding": 0,
     "blog_card_text_alignment": "left",
-    "blog_card_color_scheme": "background-2",
+    "blog_card_color_scheme": "scheme-d54bdf3c-909f-40d9-90d5-72025a15c191",
     "blog_card_border_thickness": 0,
     "blog_card_border_opacity": 10,
     "blog_card_corner_radius": 0,
@@ -117,7 +117,7 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": true,
-    "cart_drawer_collection": "",
+    "cart_drawer_collection": "tutta-la-collezione",
     "cart_color_scheme": "background-1",
     "checkout_logo_image": "shopify:\/\/shop_images\/tolove-logo.svg",
     "checkout_logo_position": "left",
@@ -148,34 +148,33 @@
 
     ],
     "blocks": {
-      "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
-        "disabled": false,
-        "settings": {
-          "button_color": "#242833",
-          "secondary_color": "#FFFFFF",
-          "button_icon": "hand_wave",
-          "button_text": "help",
-          "button_horizontal_position": "bottom_right",
-          "button_vertical_position": "lowest",
-          "greeting_message": ""
-        }
-      },
       "1692329972272007824": {
         "type": "shopify:\/\/apps\/zepto-product-personalizer\/blocks\/product_personalizer_main\/7411210d-7b32-4c09-9455-e129e3be4729",
         "disabled": false,
         "settings": {
         }
       },
-      "2965712708760319418": {
-        "type": "shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a",
+      "8698817763995941236": {
+        "type": "shopify:\/\/apps\/fordeer-sales-popup\/blocks\/popup\/10ad4a26-87fb-43fd-8aa9-dd53e003ed28",
         "disabled": false,
         "settings": {
         }
       },
-      "13375938897875554821": {
-        "type": "shopify:\/\/apps\/qikify-sales-pop-up\/blocks\/app-embed\/688dd516-1cdc-4008-8329-23089a1c4e24",
+      "2965712708760319418": {
+        "type": "shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a",
         "disabled": true,
+        "settings": {
+        }
+      },
+      "6406956604159796213": {
+        "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "14724428607702905366": {
+        "type": "shopify:\/\/apps\/webrex-seo-optimizer\/blocks\/webrexSeoEmbed\/b26797ad-bb4d-48f5-8ef3-7c561521049c",
+        "disabled": false,
         "settings": {
         }
       }

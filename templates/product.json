@@ -15,9 +15,21 @@
           "settings": {
           }
         },
+        "air_product_reviews_app_summary_block_iaatwG": {
+          "type": "shopify:\/\/apps\/air-product-reviews\/blocks\/app-summary-block\/c4e1e9ca-4d46-4e76-bc39-7e42417cb327",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "custom_liquid_4gAQQc": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "{% comment %}\n{% endcomment %}\n<b>Come Personalizzo il mio Ciondolo?<\/b>\n<div style=\"margin-top: 0; display: flex; flex-direction: column; align-items: start; line-height: 2rem;\">\n    <span><b style=\"color: #d09170;\">1. <\/b>Scrivi il testo che preferisci<\/span>\n    <span><b style=\"color: #d09170;\">2. <\/b>Guarda l'anteprima<\/span>\n    <span><b style=\"color: #d09170;\">3. <\/b>Aggiungi al Carrello<\/span>\n    <span><b style=\"color: #d09170;\">4. <\/b>Vai al Check-out<\/span>\n<\/div>"
           }
         },
         "variant_picker": {
@@ -53,12 +65,17 @@
       "block_order": [
         "vendor",
         "title",
+        "air_product_reviews_app_summary_block_iaatwG",
         "price",
+        "custom_liquid_4gAQQc",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
         "share"
+      ],
+      "custom_css": [
+        ".AirReviews-StarRate--Count {display: none;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -93,10 +110,33 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "170526102300f55cff": {
+      "type": "apps",
+      "blocks": {
+        "air_product_reviews_app_block_review_list_bxk4qm": {
+          "type": "shopify:\/\/apps\/air-product-reviews\/blocks\/app-block-review-list\/c4e1e9ca-4d46-4e76-bc39-7e42417cb327",
+          "settings": {
+            "air_blockreviews_summaryHeading": "Review",
+            "air_blockreviews_layout": "list",
+            "air_blockreviews_singleStarColor": "#16a086",
+            "air_blockreviews_primaryColor": "#121212",
+            "air_blockreviews_buttonBackgroundColor": "#ededed",
+            "air_blockreviews_buttonTextColor": "#121212"
+          }
+        }
+      },
+      "block_order": [
+        "air_product_reviews_app_block_review_list_bxk4qm"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "170526102300f55cff"
   ]
 }

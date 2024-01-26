@@ -29,7 +29,7 @@
             "heading_size": "h1",
             "subheading": "Scopri i nostri ciondoli a <strong>Cuore<\/strong> disponibili in tre varianti di colori. Aggiungi un tocco di eleganza al tuo look quotidiano!",
             "button_label": "SCOPRI ORA",
-            "link": "shopify:\/\/products\/cuore-di-calypso-1",
+            "link": "shopify:\/\/products\/cuore-di-calypso",
             "button_style_secondary": true,
             "box_align": "middle-left",
             "show_text_box": true,
@@ -47,7 +47,7 @@
             "heading_size": "h1",
             "subheading": "e scopri <strong>Aura Circle<\/strong>  in 4 varianti diversi",
             "button_label": "INCIDI ORA",
-            "link": "shopify:\/\/products\/aura-circle-1",
+            "link": "shopify:\/\/products\/aura-circle",
             "button_style_secondary": true,
             "box_align": "middle-right",
             "show_text_box": true,
@@ -71,7 +71,7 @@
         "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 3,
+        "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Presentazione delle nostre slides"
@@ -152,7 +152,7 @@
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "collection": "frontpage",
+        "collection": "tutta-la-collezione",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -164,10 +164,10 @@
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
-        "show_rating": true,
+        "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
       }
@@ -350,6 +350,32 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "custom_liquid_hcFqBd": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"AirReviews-Widget AirReviews-Widget--Carousel\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_blog_3Dhghh": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog",
+        "heading_size": "h1",
+        "blog": "blog-ciondoli-unici-incisioni-e-tendenze-tolove",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-e9956c5b-cd3f-4410-96a3-7ad03ec24479",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -357,6 +383,8 @@
     "multicolumn_irH6AX",
     "featured_collection",
     "923e05f5-6ee5-451f-9d0d-e7cdf402dd6d",
-    "multicolumn_gLEcEj"
+    "multicolumn_gLEcEj",
+    "custom_liquid_hcFqBd",
+    "featured_blog_3Dhghh"
   ]
 }
