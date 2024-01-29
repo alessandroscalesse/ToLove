@@ -160,24 +160,6 @@
         "settings": {
         }
       },
-      "2965712708760319418": {
-        "type": "shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "6406956604159796213": {
-        "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "14724428607702905366": {
-        "type": "shopify:\/\/apps\/webrex-seo-optimizer\/blocks\/webrexSeoEmbed\/b26797ad-bb4d-48f5-8ef3-7c561521049c",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "12439146293631897289": {
         "type": "shopify:\/\/apps\/blockify-ip-block\/blocks\/app_embed\/2e3e0ba5-0e70-447a-9ec5-3bf76b5ef12e",
         "disabled": false,
@@ -192,6 +174,12 @@
       },
       "478144830049398400": {
         "type": "shopify:\/\/apps\/storeseo\/blocks\/store_seo_meta\/64b24496-16f9-4afc-a800-84e6acc4a36c",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11877319286961345690": {
+        "type": "shopify:\/\/apps\/doc-404-broken-links-repair\/blocks\/404-fix-broken-links-widget\/f4f2d416-cb00-4540-bda9-816d588bad3e",
         "disabled": false,
         "settings": {
         }
