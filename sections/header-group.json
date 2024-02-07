@@ -5,6 +5,13 @@
     "announcement_bar_GBDwqY": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_7qCHMw": {
+          "type": "announcement",
+          "settings": {
+            "text": "CONSEGNA PRIMA DI SAN VALENTINO",
+            "link": ""
+          }
+        },
         "announcement_jfAdyi": {
           "type": "announcement",
           "settings": {
@@ -18,19 +25,12 @@
             "text": "Paga in Contrassegno",
             "link": ""
           }
-        },
-        "announcement_7qCHMw": {
-          "type": "announcement",
-          "settings": {
-            "text": "Scopri i nostri Ciondoli",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "announcement_7qCHMw",
         "announcement_jfAdyi",
-        "announcement_WgMYpz",
-        "announcement_7qCHMw"
+        "announcement_WgMYpz"
       ],
       "settings": {
         "color_scheme": "accent-2",
